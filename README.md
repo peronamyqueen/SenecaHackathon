@@ -5,6 +5,8 @@
 | Issa Abishev      | iabishev@myseneca.ca    |
 | Mukhit AKimzhanov | makimzhanov@myseneca.ca |
 
+# Description
+
 # Getting started
 
 ### First , clone the repo
@@ -50,9 +52,13 @@ This downloads the AI model (about 2-4GB). Think of it like downloading a game o
 ### Run both backend and frontend :
 
 ```
-cd frontend && npm run dev
+cd frontend
+npm install
+npm run dev
 ```
 
 ```
-cd server && npm run dev
+cd server
+npm install
+npm run dev
 ```
