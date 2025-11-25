@@ -1,9 +1,11 @@
 # Team
 
-Issa Abishev - iabishev@myseneca
-Mukhit Akimzhanov-makimzhanov@myseneca.ca
+| Name              | Seneca Email            |
+| ----------------- | ----------------------- |
+| Issa Abishev      | iabishev@myseneca.ca    |
+| Mukhit AKimzhanov | makimzhanov@myseneca.ca |
 
-# Gettign started
+# Getting started
 
 ### First , clone the repo
 
@@ -21,9 +23,9 @@ curl -fsSL https://ollama.com/install.sh | sh
 
 On Windows:
 
-Go to https://ollama.com/download
-Download the Windows installer
-Run it (just like installing any program)
+- Go to https://ollama.com/download
+- Download the Windows installer
+- Run it (just like installing any program)
 
 ### Start Ollama
 
