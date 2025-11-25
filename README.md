@@ -7,6 +7,8 @@
 
 # Description
 
+This project is a web-platform with a job postings . When user loads the page , the client side sends whole job postings dataset to the AI model (Ollama 3.2) to analyze every single posting's transparency. In the future we plan to setup a database that would store all the postings and result for their transparency check . Also , for employer's side , we plan to notify him , if their posting lacks transparency , and how they can fix it
+
 # Getting started
 
 ### First , clone the repo
